@@ -4,7 +4,7 @@
 <img src="https://github.com/zhouyuan7/custom_cup_haarcascade_detector/blob/master/readme_source/video3_gif.gif"/>
 </p>
 
-![alt text](https://github.com/zhouyuan7/Baxter-project-1/blob/master/gif/paper_final.jpg)
+![alt text](https://github.com/zhouyuan7/custom_cup_haarcascade_detector/blob/master/readme_source/performance.jpeg)
 <p align="center">
 color detector results
 </p>
