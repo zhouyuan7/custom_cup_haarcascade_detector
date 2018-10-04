@@ -21,3 +21,5 @@ The first tutorial I followed is this website [Creating your own Haar Cascade Op
 <p align="center">
 <img src="https://github.com/zhouyuan7/custom_cup_haarcascade_detector/blob/master/readme_source/video1_gif.gif"/>
 </p>
+
+In my opinon, based on the principle of the haar cascade, the technique performs well on the target with many unique features like ‘company logo’ and this is also why it does a great job on face detection. In another point of view, the more target information you collected, the better performance you could achieved.
