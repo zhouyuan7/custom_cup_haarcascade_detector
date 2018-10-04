@@ -10,7 +10,7 @@ This a cup detector using haarcascade created by myself. It can detect an upside
 
 ## Introduction
 
-The motivation of creating this detector is from my last baxter project. In last project, I loaded a state-of-the-art CNN model to detect the cup, however, I think that if the target is a particular cup, an individual detector would be better, and I choose the classical haar cascade method first.
+The motivation of creating this detector is from my last baxter project. In last project, I loaded a state-of-the-art CNN model to detect the cup, however, I think that if the target is a particular cup, an individual detector would be better, and I choose the classical haar cascade method first. I searched from Internet and found out there is no available model for my target cup, so why not train by myself?
 
 <p align="center">
 <img src="https://github.com/zhouyuan7/custom_cup_haarcascade_detector/blob/master/readme_source/video2_gif.gif"/>
