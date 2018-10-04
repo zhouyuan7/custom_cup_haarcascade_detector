@@ -16,7 +16,7 @@ The motivation of creating this detector is from my last baxter project. In last
 <img src="https://github.com/zhouyuan7/custom_cup_haarcascade_detector/blob/master/readme_source/video2_gif.gif"/>
 </p>
 
-The first tutorial I followed is this website [Creating your own Haar Cascade OpenCV Python Tutorial](https://pythonprogramming.net/haar-cascade-object-detection-python-opencv-tutorial/).  Although I have to admit that this is a good start, positive images set created by its ways cannot support a good performance. Too much positive false appears, and it turns out that for a target not unique like ‘company logo’, a good way is to manually capture positive inside the test environment from different view angles, illumination levels and distances and then box the target manually too. I have to say this is a time-consuming job, but the performance is good. 
+The first tutorial I followed is this website [Creating your own Haar Cascade OpenCV Python Tutorial](https://pythonprogramming.net/haar-cascade-object-detection-python-opencv-tutorial/).  Although I have to admit that this is a good start, positive images set created by its ways cannot support a good performance. Too much false positive appears, and it turns out that for a target not unique like ‘company logo’, a good way is to manually capture positive inside the test environment from different view angles, illumination levels and distances and then box the target manually too. I have to say this is a time-consuming job, but the performance is good. 
 
 <p align="center">
 <img src="https://github.com/zhouyuan7/custom_cup_haarcascade_detector/blob/master/readme_source/video1_gif.gif"/>
